@@ -1,0 +1,35 @@
+NOTE:patelbj3(repository name)
+
+
+ID = 1
+FirstName = parth
+LastName = patel
+Sex = m
+FatherName = ashok
+MotherName = manjula
+FamilyName = 1
+-------------------------------------------------------------------------------------------
+ID = 2
+FirstName = deep
+LastName = patel
+Sex = m
+FatherName = jitendra
+MotherName = neeru
+FamilyName = 2
+-------------------------------------------------------------------------------------------
+ID = 3
+FirstName = yashvi
+LastName = patel
+Sex = f
+FatherName = jitendra
+MotherName = neeru
+FamilyName = 2
+-------------------------------------------------------------------------------------------
+ID = 4
+FirstName = shruti
+LastName = patel
+Sex = f
+FatherName = bhavesh
+MotherName = pratima
+FamilyName = 3
+-------------------------------------------------------------------------------------------
