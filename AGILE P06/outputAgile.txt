@@ -1,0 +1,3 @@
+Total number of female in family are :12
+Total number of male in family are :15
+Total number of male in family are more
