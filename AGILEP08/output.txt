@@ -1,0 +1,91 @@
+*******************************************
+            Userstory 1                   
+*******************************************
+ Dax is residing in city Ankleshwar
+ charmi is residing in city Ankleshwar
+ Revabhai is residing in city Visnagar
+ Kiran is residing in city Himatnagar
+ Trupti is residing in city Visnagar
+ Premila is residing in city Visnagar
+ Rajendra is residing in city Ahmedabad
+ Baldev is residing in city Himatnagar
+ Bhavini is residing in city Gandhinagar
+ Vishnubai is residing in city Surat
+ Ankit is residing in city Visnagar
+ kabir is residing in city Visnagar
+ Bhagavati is residing in city Ahmedabad
+ Twinkal is residing in city Ahmedabad
+*******************************************
+            Userstory 2                   
+*******************************************
+ Dax is residing in state Gujarat
+ charmi is residing in state Gujarat
+ Revabhai is residing in state Gujarat
+ Kiran is residing in state Gujarat
+ Trupti is residing in state Gujarat
+ Premila is residing in state Gujarat
+ Rajendra is residing in state Gujarat
+ Baldev is residing in state Gujarat
+ Bhavini is residing in state Gujarat
+ Vishnubai is residing in state Gujarat
+ Ankit is residing in state Gujarat
+ kabir is residing in state Gujarat
+ Bhagavati is residing in state Gujarat
+ Twinkal is residing in state Gujarat
+*******************************************
+            Userstory 3                   
+*******************************************
+ Dax is residing in country India
+ charmi is residing in country India
+ Revabhai is residing in country India
+ Kiran is residing in country India
+ Trupti is residing in country India
+ Premila is residing in country India
+ Rajendra is residing in country India
+ Baldev is residing in country India
+ Bhavini is residing in country India
+ Vishnubai is residing in country India
+ Ankit is residing in country India
+ kabir is residing in country India
+ Bhagavati is residing in country India
+ Twinkal is residing in country India
+***********************************************
+                 Userstory 4                   
+***********************************************
+ The nickname of charmi is charmi
+ The nickname of Mohandas is dadu
+ The nickname of Menoma is mena
+***********************************************
+               Userstory 5                   
+***********************************************
+Bipin&charmi were married on 1/MAR/1955
+Mohandas&Menoma were married on 22/APR/1977
+Kiran&Baldev were married on 30/AUG/1956
+Premila&Vishnubai were married on 16/JUL/1992
+Rajendra&Bhagavati were married on 22/SEP/1970
+Amit&Kiran were married on 23/JAN/1982
+*******************************************
+            Userstory 6                   
+*******************************************
+ The occupation of Binjal is student
+ The occupation of Champaben is housewife
+ The occupation of Dax is student
+ The occupation of charmi is housewife
+ The occupation of Revabhai is Teacher
+ The occupation of Kiran is housewife
+ The occupation of Trupti is housewife
+ The occupation of Premila is houswife
+ The occupation of Rajendra is teacher
+ The occupation of Mohandas is Teacher
+ The occupation of Baldev is businessman
+ The occupation of Janak is BA
+ The occupation of Bhavini is nurse
+ The occupation of Bachu is businessman
+ The occupation of Apoorv is student
+ The occupation of Vishnubai is diamond
+ The occupation of Ankit is student
+ The occupation of kabir is student
+ The occupation of Bhagavati is housewife
+ The occupation of Amit is BA
+ The occupation of Twinkal is accountant
+*******************************************
