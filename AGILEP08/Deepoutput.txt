@@ -1,0 +1,35 @@
+:::::::::::::::::::::::::::::::::::::::::::
+               Userstory 1                 
+:::::::::::::::::::::::::::::::::::::::::::
+ Dax is residing in city Ankleshwar
+ charmi is residing in city Ankleshwar
+ Revabhai is residing in city Visnagar
+ Kiran is residing in city Himatnagar
+ Trupti is residing in city Visnagar
+ Premila is residing in city Visnagar
+ Rajendra is residing in city Ahmedabad
+ Baldev is residing in city Himatnagar
+ Bhavini is residing in city Gandhinagar
+ Vishnubai is residing in city Surat
+ Ankit is residing in city Visnagar
+ kabir is residing in city Visnagar
+ Bhagavati is residing in city Ahmedabad
+ Twinkal is residing in city Ahmedabad
+ 
+:::::::::::::::::::::::::::::::::::::::::::
+              Userstory 2                  
+:::::::::::::::::::::::::::::::::::::::::::
+ Dax is residing in state Gujarat
+ charmi is residing in state Gujarat
+ Revabhai is residing in state Gujarat
+ Kiran is residing in state Gujarat
+ Trupti is residing in state Gujarat
+ Premila is residing in state Gujarat
+ Rajendra is residing in state Gujarat
+ Baldev is residing in state Gujarat
+ Bhavini is residing in state Gujarat
+ Vishnubai is residing in state Gujarat
+ Ankit is residing in state Gujarat
+ kabir is residing in state Gujarat
+ Bhagavati is residing in state Gujarat
+ Twinkal is residing in state Gujarat
