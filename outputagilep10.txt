@@ -1,0 +1,10 @@
+:::::::::::::::::::::::::::::::::::::::::::
+         Divorce before marriage           
+:::::::::::::::::::::::::::::::::::::::::::
+Premila has marriage date after divorce date
+ketan has marriage date after divorce date
+:::::::::::::::::::::::::::::::::::::::::::
+            Check divorce date             
+:::::::::::::::::::::::::::::::::::::::::::
+Premila divorced on 16 AUG 1991
+ketan divorced on 5 APR 2008
