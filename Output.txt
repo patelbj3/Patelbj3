@@ -1,54 +1,10 @@
-To display birth date
-NAME           Birth date
-Binjal          8/JUL/1991
-Bipin          8/JUL/1997
-Champaben          27/AUG/1964
-Dax          19/JUN/1998
-Revabhai          11/SEP/1891
-Kiran          23/MAR/1963
-Trupti          12/DEC/1965
-Premila          31/SEP/1968
-Mohandas          5/JAN/1865
-Menoma          9/FEB/1874
-Baldev          4/JAN/1959
-Janak          3/FEB/1991
-Bhavini          3/DEC/1995
-Bachu          7/SEP/1959
-Apoorv          21/SEP/1994
-Vishnubai          30/SEP/1964
-Ankit          5/JUL/1998
-kabir          5/AUG/1998
-Bhagavati          12/JUN/1964
-Amit          3/AUG/1984
-Twinkal          5/DEC/1993
-Kiran          27/JUL/1984
-Param          11/DEC/2013
-Naman          5/AUG/2014
-
-Check for valid death date
-7/AP/1976 the value for death date is invalid
-12/MAY/1987 the value for death date is valid
-10/SEP/2018 the value for death date is invalid
-35/SEP/2005 the value for death date is invalid
-10/SEP/2005 the value for death date is valid
-
- Gender Count
-The number of Male is :15
-The number of Female is :12
-
-Check for email id
- The email value patelpinal2289@gmail.com is valid
- The email value patelbr20gmail.com is invalid
- The email value pinalpatel2289@gmail.com is valid
- The email value raju2004patel@gmail.com is valid
-
- Display gender of the dead
- Dead Person Mohandas gender is Male
- Dead Person Menoma gender is Female
- Dead Person Janak gender is Male
- Dead Person Bhavini gender is Female
- Dead Person Bachu gender is Male
-
-Check for people married more than 1s
-Bipin has more than 1 spouse
-Premila has more than 1 spouse
+:::::::::::::::::::::::::::::::::::::::::::
+         Divorce before marriage           
+:::::::::::::::::::::::::::::::::::::::::::
+Premila has marriage date after divorce date
+ketan has marriage date after divorce date
+:::::::::::::::::::::::::::::::::::::::::::
+            Check divorce date             
+:::::::::::::::::::::::::::::::::::::::::::
+Premila divorced on 16 AUG 1991
+ketan divorced on 5 APR 2008
