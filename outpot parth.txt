@@ -1,0 +1,9 @@
+*******************************************
+           1.check if widow or not         
+*******************************************
+Trupti is a widow
+*******************************************
+  2.Display marriage date and divorce date 
+*******************************************
+Premila marriage date 16 JUL 1995divorce date 16 AUG 1991
+ketan marriage date 2 MAR 2009divorce date 5 APR 2008
